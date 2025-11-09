@@ -31,3 +31,5 @@ Start writing 🖋
 Found a bug 🐞?
 Want to add a new feature ✨?
 Feel free to open an issue or pull request — contributions are always welcome!
+
+## Thank You ✨
